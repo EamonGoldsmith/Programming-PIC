@@ -1,2 +1,2 @@
 # Programming-PIC
-My process from nothing to novice
+Learning how to use the PIC microcontroller family.
